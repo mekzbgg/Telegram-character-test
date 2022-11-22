@@ -1,0 +1,312 @@
+{
+  "Soru1": {
+    "soru": "Hangisi sana daha yakın?",
+    "Cevaplar": {
+      "A": "1",
+      "B": "2",
+      "C": "X",
+      "D": "646",
+      "E": "Kılıç",
+      "F": "Masa",
+      "G": "Güneş"
+    }
+  },
+  "Soru2": {
+    "soru": "Müzik aletleri ile dolu bir mağazaya girdiniz.",
+    "Cevaplar": {
+      "A": "Mikrofonu elime alırım ve şarkı söylemeye başlarım.",
+      "B": "Vay canına süper bir mekân.",
+      "C": "Her yeri karıştırmak benim işim.",
+      "D": "Benim zaten bir müzik aletim var.",
+      "E": "Sanırım aradığım gitarı buldum.",
+      "F": "Acaba bu alet kaç paradır?",
+      "G": "İzinsiz hiç birine dokunamam."
+    }
+  },
+  "Soru3": {
+    "soru": "Bir müsabaka düzenleniyor.",
+    "Cevaplar": {
+      "A": "Bu müsabaka bensiz başlayamaz.",
+      "B": "Müsabakaları hiç sevmem, ben bu oyunu bozarım.",
+      "C": "Ön planlarda olmasa da, muhakkak bende bu işin içindeyim.",
+      "D": "Genelde kendim takılırım böyle şeylerden pek haberim olmaz.",
+      "E": "Takım kaptanı benim.",
+      "F": "En iyi oyuncusunu bu müsabakaya girmeye ikna ediyorum.",
+      "G": "Bu müsabaka sayesinde yeni insanlarla tanışırım."
+    }
+  },
+  "Soru4": {
+    "soru": "İş hayatınla ilgili planın nedir?",
+    "Cevaplar": {
+      "A": "Bir işim olsun yeter.",
+      "B": "Ben patron olacağım.",
+      "C": "Ben kesin bir şeylerin müdürüyüm.",
+      "D": "Bu şirketin en çok çalışanı benim.",
+      "E": "Az çalışıp çok kazanacağım bir iş hayal ediyorum.",
+      "F": "Yaptığım işte en iyisi benim.",
+      "G": "Sanatsal bir projeyi yönetmek beni mutlu eder."
+    }
+  },
+  "Soru5": {
+    "soru": "Ne tür yiyecekler seversin?",
+    "Cevaplar": {
+      "A": "Kolay hazırlanan yiyecekler.",
+      "B": "Ne olsa yerim.",
+      "C": "Özenle hazırlanmış olmalı.",
+      "D": "Benim için öncelik lezzet.",
+      "E": "Bir hikâyesi olmalı.",
+      "F": "Benim için önemli olan nerede yendiği.",
+      "G": "Yemek yemektir."
+    }
+  },
+  "Soru6": {
+    "soru": "Bazı şeylerin tek seferlik olmasını nasıl karşılıyorsun",
+    "Cevaplar": {
+      "A": "Bence çok saçma her şeyi tekrar denebilmeliyiz.",
+      "B": "İkinci şansları sevmem.",
+      "C": "Her işi tek seferde yapmanın bir yolu vardır.",
+      "D": "Farklı olasılıklar denenebilmeli.",
+      "E": "Neden olsun?",
+      "F": "Elbette bir sebebi vardır.",
+      "G": "Önce başka birine denetebilirim."
+    }
+  },
+  "Soru7": {
+    "soru": "Bir oyun oynanacak görevlerden birini seçmelisin.",
+    "Cevaplar": {
+      "A": "Ne yapmam gerektiğini bilmiyorum.",
+      "B": "Kolay bir görev olabilir, fazla sorumluluk almak istemem.",
+      "C": "Kimsenin yapmak istemediği o görev bana ait.",
+      "D": "Planlama görevi bana ait.",
+      "E": "İşi ben organize ediyorum.",
+      "F": "Arka planı ben hallederim.",
+      "G": "Bu oyunun bize ne gibi bir faydası var."
+    }
+  },
+  "Soru8": {
+    "soru": "Hangisine sahip olmak istersin?.",
+    "Cevaplar": {
+      "A": "Kalem.",
+      "B": "Araba.",
+      "C": "Şemsiye.",
+      "D": "Para.",
+      "E": "Çekiç.",
+      "F": "Bilgisayar.",
+      "G": "Pantolon."
+    }
+  },
+  "Soru9": {
+    "soru": "Sana göre hangisi sevginin tanımına daha uygundur?",
+    "Cevaplar": {
+      "A": "İnsan her şeyi sevebilmeli.",
+      "B": "Sevgi mi, ne sevgisi.",
+      "C": "Sonunu düşünmeden sevmek.",
+      "D": "Sevgi göreceli bir kavramdır.",
+      "E": "Sana zarar vermiyorsa, seni seviyordur.",
+      "F": "Planlanabilen her şey sevilebilir.",
+      "G": "Sevgi ruha besleyen her şeydir."
+    }
+  },
+  "Soru10": {
+    "soru": "Umut etmek!",
+    "Cevaplar": {
+      "A": "Umut etmek gereksiz bir eylemdir.",
+      "B": "Plana uyarsan bir gün muhakkak kazanırsın.",
+      "C": "Beklemek gereksiz bir eylemdir, hareket etmek daha doğru.",
+      "D": "Umutlar ve hayaller yaşamın vazgeçilmezidir.",
+      "E": "Hayatımın yarısı bununla geçiyor.",
+      "F": "Fazla beklentiye girmek sizi üzebilir.",
+      "G": "Ben umut etmem, hesap ederim."
+    }
+  },
+  "Soru11": {
+    "soru": "Bir renk seç ;",
+    "Cevaplar": {
+      "A": "Siyah.",
+      "B": "Beyaz.",
+      "C": "Gri.",
+      "D": "Mavi.",
+      "E": "Kırmızı.",
+      "F": "Yeşil.",
+      "G": "Sarı."
+    }
+  },
+  "Soru12": {
+    "soru": "Sana göre sorunlar nasıl çözülmeli.",
+    "Cevaplar": {
+      "A": "Tüm sorun en ince detayına kadar analiz edilip, çözüm planlanmalı.",
+      "B": "En iyi çözüm planı hangisiyse acilen o desteklenmeli.",
+      "C": "Sorunun temeline inilmeli.",
+      "D": "Pek sorun çözebildiğim söylenemez.",
+      "E": "Bu sorunla alakalı çalışan birilerine yardım edebilirim.",
+      "F": "Sorunu çözmenin en iyi yolu daha büyük bir sorun yaratmaktır.",
+      "G": "Bu sorunun önce iyi taraflarından faydalanmalıyız."
+    }
+  },
+  "Soru13": {
+    "soru": "Hangisini tercih edersin?",
+    "Cevaplar": {
+      "A": "Sevgi.",
+      "B": "Başarı.",
+      "C": "Aşk.",
+      "D": "Azim.",
+      "E": "Güç.",
+      "F": "Hayat.",
+      "G": "Güven."
+    }
+  },
+  "Soru14": {
+    "soru": "Seni en mutlu eden anlar hangileridir?",
+    "Cevaplar": {
+      "A": "Planıma uyulduğu zamanlar.",
+      "B": "En iyi arkadaşımın yanındayken.",
+      "C": "Fark ettirmeden birilerine iyilik yaptığım zamanlar.",
+      "D": "Kazandığım zaman mutlu olurum.",
+      "E": "Güçlü hissettiğim zamanlar.",
+      "F": "Bir işle uğraşmak beni mutlu eder.",
+      "G": "Sanırım her şeyden mutlu olurum."
+    }
+  },
+  "Soru15": {
+    "soru": "Issız bir adaya gitsen yanında ne götürsün?",
+    "Cevaplar": {
+      "A": "Bilgisayar.",
+      "B": "Çakı.",
+      "C": "Ateş.",
+      "D": "Güneş.",
+      "E": "Balta.",
+      "F": "Cep Telefonu.",
+      "G": "Olta."
+    }
+  },
+  "Soru16": {
+    "soru": "İyi bir yönetim senin için ne ifade ediyor?",
+    "Cevaplar": {
+      "A": "Planlı ve iyi organize edilmiş bir sistem.",
+      "B": "Tek kişinin organize ettiği bir sistem.",
+      "C": "Herkes tarafından kontrol edilebilen bir sistem.",
+      "D": "Herkesin istediğini alabildiği bir sistem.",
+      "E": "Herkesin işini düzgün yaptığı bir sistem.",
+      "F": "Herkesin kazanabildiği bir sistem.",
+      "G": "Kararsızım."
+    }
+  },
+  "Soru17": {
+    "soru": "Toplumsal sorunlar nasıl çözülür?",
+    "Cevaplar": {
+      "A": "Yardımlaşarak, takım çalışması benim için önemli.",
+      "B": "Herkes kendi etrafını düzeltmeli.",
+      "C": "Mücadele verereki.",
+      "D": "Gelecekle ilgili bir planım yok, bugünü kurtarayım yeter.",
+      "E": "Çok çalışarak.",
+      "F": "Paylaşmak.",
+      "G": "Önce izleyip anlamak gerekir."
+    }
+  },
+  "Soru18": {
+    "soru": "Gelecekle ilgili hayalin nedir?",
+    "Cevaplar": {
+      "A": "Birçok hayalim var ve neredeyse hepsini planladım.",
+      "B": "Ölene kadar çalışmak istiyorum, sürekli birilerine destek olmak.",
+      "C": "Sadece sevdiklerimle beraber geçen bir ömür.",
+      "D": "Gelecekle ilgili bir planım yok, bugünü kurtarayım yeter.",
+      "E": "Çalışmak, çalışmak, çalışmak.",
+      "F": "Lüks içinde yaşamalıyım.",
+      "G": "İnsan kalabilsem yeter."
+    }
+  },
+  "Soru19": {
+    "soru": "Hangisi karakter sana daha uygun?",
+    "Cevaplar": {
+      "A": "Masum .",
+      "B": "Yırtıcı.",
+      "C": "Aceleci.",
+      "D": "Sakin.",
+      "E": "Sabırlı.",
+      "F": "Doyumsuz.",
+      "G": "Duygusuz."
+    }
+  },
+  "Soru20": {
+    "soru": "Hangisini daha çok seversin",
+    "Cevaplar": {
+      "A": "Tatlı.",
+      "B": "Ekşi.",
+      "C": "Acı.",
+      "D": "Tuzlu."
+    }
+  },
+  "Soru21": {
+    "soru": "Hangi geometri şekilli seni ifade eder",
+    "Cevaplar": {
+      "A": "Üçgen.",
+      "B": "Kare.",
+      "C": "Beşgen.",
+      "D": "Dikdörtgen.",
+      "E": "Daire.",
+      "F": "Silindir.",
+      "G": "Piramit."
+    }
+  },
+  "Soru22": {
+    "soru": "Üzüldüğün zaman ne yapmak seni geri döndürür?",
+    "Cevaplar": {
+      "A": "Okumak.",
+      "B": "Sevmek.",
+      "C": "Çalışmak.",
+      "D": "Anlatmak.",
+      "E": "Dinlemek.",
+      "F": "Yazmak.",
+      "G": "Ağlamak."
+    }
+  },
+  "Soru23": {
+    "soru": "Hangi yaş aralığındasın?",
+    "Cevaplar": {
+      "A": "12-22.",
+      "B": "22-32.",
+      "C": "32-42.",
+      "D": "42-52.",
+      "E": "52-82."
+    }
+  },
+  "Soru24": {
+    "soru": "Cinsiyetin nedir?",
+    "Cevaplar": {
+      "A": "Erkek.",
+      "B": "Kadın."
+    }
+  },
+  "Soru25": {
+    "soru": "Hangisi size daha yakın?",
+    "Cevaplar": {
+      "A1": "Müzik dinlemek hoşuma gider.",
+      "B2": "Temizlik benim için önemlidir.",
+      "C3": "Bir dostuma elimi uzatmak hoşuma gider."
+    }
+  },
+  "Soru26": {
+    "soru": "Hangisi size daha yakın?",
+    "Cevaplar": {
+      "A1": "Haberleri dinlemeyi severim",
+      "B2": "İnsanların görünüşü bana onlar hakkında fikir verir.",
+      "C3": "Araba yıkamayı seviyorum."
+    }
+  },
+  "Soru27": {
+    "soru": "Hangisi size daha yakın?",
+    "Cevaplar": {
+      "A1": "Konuşmaları taklit etmek benim işim.",
+      "B2": "Hareketleri taklit etmek benim için çocuk oyuncağı.",
+      "C3": "Bunlar yerine onun gibi sarılabilirim"
+    }
+  },
+  "Soru28": {
+    "soru": "Hangisi size daha yakın?",
+    "Cevaplar": {
+      "A1": "İyi bir dinleyiciyim",
+      "B2": "Gördüklerimi hatırlamakta iyiyim",
+      "C3": "Nesneleri Dokunarak tanıyabilirim"
+    }
+  }
+}

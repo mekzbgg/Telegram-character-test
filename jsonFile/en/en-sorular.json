@@ -1,0 +1,312 @@
+{
+  "Soru1": {
+    "soru": "Which one is closer to you?",
+    "Cevaplar": {
+      "A": "1",
+      "B": "2",
+      "C": "X",
+      "D": "646",
+      "E": "Sword",
+      "F": "Table",
+      "G": "Sun"
+    }
+  },
+  "Soru2": {
+    "soru": "You entered a store full of musical instruments.",
+    "Cevaplar": {
+      "A": "I pick up the microphone and start singing.",
+      "B": "Wow, great place.",
+      "C": "It's my job to mess everything up.",
+      "D": "I already have a musical instrument.",
+      "E": "I think I found the guitar I was looking for.",
+      "F": "I wonder how much this tool costs?",
+      "G": "I can't touch anyone without permission."
+    }
+  },
+  "Soru3": {
+    "soru": "A competition is being held.",
+    "Cevaplar": {
+      "A": "This match cannot start without me.",
+      "B": "I don't like competitions, I'll spoil this game.",
+      "C": "Although it is not in the foreground, I am definitely in this business.",
+      "D": "I usually hang out myself, I don't know much about such things.",
+      "E": "I'm the team captain.",
+      "F": "I'm convincing your best player to enter this competition.",
+      "G": "I meet new people through this competition."
+    }
+  },
+  "Soru4": {
+    "soru": "What is your business plan?",
+    "Cevaplar": {
+      "A": "I just have a job.",
+      "B": "I will be the boss.",
+      "C": "I'm the director of something for sure.",
+      "D": "I am the most employee of this company.",
+      "E": "I dream of a job where I will work less and earn more.",
+      "F": "I'm the best at what I do.",
+      "G": "Managing an artistic project makes me happy."
+    }
+  },
+  "Soru5": {
+    "soru": "What kind of food do you like?",
+    "Cevaplar": {
+      "A": "Easy to prepare food.",
+      "B": "I'll eat anything.",
+      "C": "Must have been carefully prepared.",
+      "D": "The priority for me is flavor.",
+      "E": "It must have a story.",
+      "F": "The important thing to me is where it is eaten.",
+      "G": "Eating is eating."
+    }
+  },
+  "Soru6": {
+    "soru": "How do you deal with the one-time thing",
+    "Cevaplar": {
+      "A": "I think it's ridiculous that we should be able to try everything again.",
+      "B": "I don't like second chances.",
+      "C": "There is a way to do everything in one go.",
+      "D": "Different possibilities should be tried.",
+      "E": "Why?",
+      "F": "Of course there is a reason.",
+      "G": "I can have someone else try it first."
+    }
+  },
+  "Soru7": {
+    "soru": "You have to choose one of the missions to play a game.",
+    "Cevaplar": {
+      "A": "I don't know what to do.",
+      "B": "It can be an easy task, I don't want to take on too much responsibility.",
+      "C": "The task that no one wants to do is mine.",
+      "D": "Planning task is mine.",
+      "E": "I organize the work.",
+      "F": "I'll take care of the background.",
+      "G": "What good does this game do for us?"
+    }
+  },
+  "Soru8": {
+    "soru": "Which would you like to have?",
+    "Cevaplar": {
+      "A": "Pen.",
+      "B": "Car.",
+      "C": "Umbrella.",
+      "D": "Money.",
+      "E": "Hammer.",
+      "F": "Computer.",
+      "G": "Pants."
+    }
+  },
+  "Soru9": {
+    "soru": "Which do you think best fits your definition of love?",
+    "Cevaplar": {
+      "A": "One should be able to love everything.",
+      "B": "Love, what love.",
+      "C": "Loving without thinking about the end.",
+      "D": "Love is a relative concept.",
+      "E": "If he doesn't hurt you, he loves you.",
+      "F": "Anything that can be planned can be loved.",
+      "G": "Love is everything that feeds the soul."
+    }
+  },
+  "Soru10": {
+    "soru": "Hope!",
+    "Cevaplar": {
+      "A": "Hope is an unnecessary action.",
+      "B": "If you follow the plan, you will definitely win one day.",
+      "C": "Waiting is an unnecessary action, it is better to act.",
+      "D": "Hopes and dreams are indispensable in life.",
+      "E": "Half of my life is spent with this.",
+      "F": "Expecting too much may upset you.",
+      "G": "I don't hope, I calculate."
+    }
+  },
+  "Soru11": {
+    "soru": "Choose a color ;",
+    "Cevaplar": {
+      "A": "Black.",
+      "B": "White.",
+      "C": "Gray.",
+      "D": "Blue.",
+      "E": "Red.",
+      "F": "Green.",
+      "G": "Yellow."
+    }
+  },
+  "Soru12": {
+    "soru": "How do you think problems should be solved.",
+    "Cevaplar": {
+      "A": "The whole problem should be analyzed down to the last detail and the solution should be planned.",
+      "B": "Which is the best solution plan should be supported immediately.",
+      "C": "We need to get to the root of the problem.",
+      "D": "I can't say that I can solve many problems.",
+      "E": "I can help someone working with this issue.",
+      "F": "The best way to solve the problem is to create a bigger problem.",
+      "G": "We should take advantage of the good side of this soru first."
+    }
+  },
+  "Soru13": {
+    "soru": "Which do you prefer?",
+    "Cevaplar": {
+      "A": "Love.",
+      "B": "Success.",
+      "C": "Love.",
+      "D": "Perseverance.",
+      "E": "Power.",
+      "F": "Life.",
+      "G": "Trust."
+    }
+  },
+  "Soru14": {
+    "soru": "What are the moments that make you happiest?",
+    "Cevaplar": {
+      "A": "When my plan is followed.",
+      "B": "When I'm with my best friend.",
+      "C": "When I do someone a favor without realizing it.",
+      "D": "I'm happy when I win.",
+      "E": "When I'm feeling strong.",
+      "F": "It makes me happy to deal with a job.",
+      "G": "I think I'd be happy with anything."
+    }
+  },
+  "Soru15": {
+    "soru": "What would you take with you to a deserted island?",
+    "Cevaplar": {
+      "A": "Computer.",
+      "B": "Knife.",
+      "C": "Fire.",
+      "D": "Sun.",
+      "E": "Axe.",
+      "F": "Mobile Phone.",
+      "G": "Fishing Rod."
+    }
+  },
+  "Soru16": {
+    "soru": "What does good management mean to you?",
+    "Cevaplar": {
+      "A": "A planned and well-organized system.",
+      "B": "A system organized by one person.",
+      "C": "A system that can be controlled by anyone.",
+      "D": "A system where everyone can get what they want.",
+      "E": "A system where everyone does their job properly.",
+      "F": "Anybody wins system.",
+      "G": "I'm undecided."
+    }
+  },
+  "Soru17": {
+    "soru": "How to solve social problems?",
+    "Cevaplar": {
+      "A": "Collaboration, teamwork is important to me.",
+      "B": "Everyone should fix themselves.",
+      "C": "Fighting",
+      "D": "Have someone tell me the answer.",
+      "E": "Work hard.",
+      "F": "Sharing.",
+      "G": "You have to watch and understand first."
+    }
+  },
+  "Soru18": {
+    "soru": "What is your dream about the future?",
+    "Cevaplar": {
+      "A": "I have many dreams and I have planned almost all of them.",
+      "B": "I want to work until I die, always supporting someone.",
+      "C": "A lifetime spent only with my loved ones.",
+      "D": "I don't have any plans for the future, just save the present.",
+      "E": "Work, work, work.",
+      "F": "I must live in luxury.",
+      "G": "As long as I can stay human."
+    }
+  },
+  "Soru19": {
+    "soru": "Which character suits you better?",
+    "Cevaplar": {
+      "A": "Innocent.",
+      "B": "Predator.",
+      "C": "Hasty.",
+      "D": "Calm.",
+      "E": "Patience.",
+      "F": "Insatiable.",
+      "G": "Emotionless."
+    }
+  },
+  "Soru20": {
+    "soru": "which one do you like more",
+    "Cevaplar": {
+      "A": "Sweet.",
+      "B": "Sour.",
+      "C": "Pain.",
+      "D": "Salthy."
+    }
+  },
+  "Soru21": {
+    "soru": "Which geometry shape expresses you",
+    "Cevaplar": {
+      "A": "Triangle.",
+      "B": "Square.",
+      "C": "Pentagon.",
+      "D": "Rectangle.",
+      "E": "Apartment.",
+      "F": "Cylinder.",
+      "G": "Pyramid."
+    }
+  },
+  "Soru22": {
+    "soru": "What do you do when you're upset will bring you back?",
+    "Cevaplar": {
+      "A": "Reading.",
+      "B": "Loving.",
+      "C": "Working.",
+      "D": "Telling.",
+      "E": "Listen.",
+      "F": "Write.",
+      "G": "Crying."
+    }
+  },
+  "Soru23": {
+    "soru": "What age range are you in?",
+    "Cevaplar": {
+      "A": "12-22.",
+      "B": "22-32.",
+      "C": "32-42.",
+      "D": "42-52.",
+      "M": "52-82."
+    }
+  },
+  "Soru24": {
+    "soru": "Finally, what is your gender?",
+    "Cevaplar": {
+      "A": "Male.",
+      "B": "Female."
+    }
+  },
+  "Soru25": {
+    "soru": "Which one is closer to you?",
+    "Cevaplar": {
+      "A1": "I like listening to music.",
+      "B2": "Cleanliness is important to me.",
+      "C3": "I like to reach out to a friend."
+    }
+  },
+  "Soru26": {
+    "soru": "Which one is closer to you?",
+    "Cevaplar": {
+      "A1": "I like to listen to the news",
+      "B2": "The way people look gives me an idea about them.",
+      "C3": "I like car washes."
+    }
+  },
+  "Soru27": {
+    "soru": "Which one is closer to you?",
+    "Cevaplar": {
+      "A1": "It's my job to imitate conversations.",
+      "B2": "Imitating movements is child's play for me.",
+      "C3": "I can cuddle like him instead"
+    }
+  },
+  "Soru28": {
+    "soru": "Which one is closer to you?",
+    "Cevaplar": {
+      "A1": "I am a good listener",
+      "B2": "I'm good at remembering what I saw",
+      "C3": "I can recognize objects by touch"
+    }
+  }
+}
